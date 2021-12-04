@@ -16,7 +16,7 @@
 
 ```
 git clone https://github.com/BetcyBabu/Creating-VPC-using-Terraform.git
-cd Terraform-VPC-sample
+cd Creating-VPC-using-Terraform
 terraform init
 terraform apply
 ```
